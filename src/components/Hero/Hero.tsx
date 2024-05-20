@@ -31,21 +31,21 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://www.linkedin.com/in/codevinayak"
+        href="https://www.linkedin.com/"
         target="_blank"
         rel="noreferrer"
       >
         <img src={linkedin} alt="Linkedin" />
       </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/leo-1228/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/Leo"
           target="_blank"
           rel="noreferrer"
         >
